@@ -5,7 +5,7 @@
       <value>60</value>
     </parameter>
     <parameter type='IPv4' name='TargetIp' description='Target IP Address'>
-      <value>0.0.0.0</value>
+      <value>127.0.0.1</value>
     </parameter>
     <parameter type='TcpPort' name='TargetPort' description='Port used by the SMB service'>
       <value>445</value>
